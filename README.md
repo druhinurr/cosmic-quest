@@ -46,9 +46,9 @@ Hosted using GitHub Pages.
 - `index.html` – Website structure
 - `style.css` – Website styling
 - `script.js` – Website functionality
-- `favicon.jpeg` – Website image
+- `favicon.png` – Website image
 - `video1.mp4` – Experience video
-- `favicon.jpeg` – Browser tab icon
+- `favicon.png` – Browser tab icon
 
 ---
 **Cosmic Quest – Beyond Imagination!** 🌠
